@@ -13,7 +13,7 @@ You will be developing a magical 8 ball app where the ball changes at the press 
 - The necessary images are already added to the images folder. Use those images to change the appearance of the ball.
 - Create a button that, when pressed, triggers a change in the ball's appearance.
 
-## Resources:
-[Demo Video:](https://docs.flutter.dev/](https://drive.google.com/file/d/15Cfc-mNC5HFZIQMFsCTj4lrTQpYNlOp_/view)https://drive.google.com/file/d/15Cfc-mNC5HFZIQMFsCTj4lrTQpYNlOp_/view)
+## Demo Video:
 
-<img width="325" alt="Magicball" src="https://github.com/hinaabbaskhan/magic-ball-flutter/assets/47082795/3ca2b3e5-03b2-47ed-8d46-35caf1c1f2ac">
+![8-ball-flutter-gif](https://github.com/hinaabbaskhan/magic-ball-flutter/assets/47082795/6c7e5672-2893-495e-9fd7-18cad6f6ed36)
+
